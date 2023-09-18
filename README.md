@@ -29,9 +29,7 @@ Selain itu kita belajar tentang Flowchart
    
 2. Program Flowchart → urutan instruksi yang digambarkan dengan symbol tertentu untuk memecahkan masalah dalam suatu program.
 
-Simbol-simbol Flowchart
-Penggunaan On Page Connector
-Penggunaan Off Page Connector
+Simbol-simbol Flowchart, Penggunaan On Page Connector, Penggunaan Off Page Connector
 
 
 
