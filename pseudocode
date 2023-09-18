@@ -1,0 +1,45 @@
+Pseudocode Luas dan Keliling Persegi Panjang 
+Algoritma : hitung_luas_dan_keliling_persegi_panjang
+
+Deklarasi :
+panjang, lebar, luas, keliling: int
+
+Deskripsi :
+read panjang
+read lebar
+luas = panjang * lebar
+keliling = 2 * (panjang + lebar)
+print luas, keliling
+
+
+
+Pseudocode Luas dan Keliling Lingkaran
+Algoritma : hitung_luas_dan_keliling_lingkaran
+
+Deklarasi : 
+int r, luas, keliling
+double phi : 3.14
+
+Deskripsi :
+read phi
+read r
+luas = phi * r * r
+keliling = 2 * phi * r 
+print luas, keliling
+
+
+
+Pseudocode Luas Lingkaran
+Algoritma : hitung_luas_dan_keliling_segitiga_siku-siku
+
+Deklarasi : 
+int alas, tinggi, luas
+int sisi a, sisi b, sisi c, keliling
+
+Deskripsi :
+read alas
+read tinggi
+read sisi a, sisi b, sisi c
+luas = 1/2 * alas * tinggi
+keliling = sisi a + sisi b + sisi c 
+print luas, keliling
